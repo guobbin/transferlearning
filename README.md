@@ -7,7 +7,7 @@
 Everything about Transfer Learning (Probably the **most complete** repository?). *Your contribution is highly valued!* If you find this repo helpful, please cite it as follows:
 
 关于迁移学习的所有资料，包括：介绍、综述文章、最新文章、代表工作及其代码、常用数据集、硕博士论文、比赛等等。(可能是**目前最全**的迁移学习资料库？) *欢迎一起贡献！* 如果认为本仓库有用，请在你的论文和其他出版物中进行引用！ 
-
+ 
 ```
 @Misc{transferlearning.xyz,
 howpublished = {\url{http://transferlearning.xyz}},   
@@ -45,7 +45,7 @@ author = {Wang, Jindong and others}
 
 - **Weekly latest papers** (20191209-20191215)
 
-	- 20191222 NIPS-19 workshop [Sim-to-Real Domain Adaptation For High Energy Physics](https://arxiv.org/abs/1912.08001)
+	- 20191222 NIPS-19 workshop [Sim-to-Real Domain  Adaptation For High Energy Physics](https://arxiv.org/abs/1912.08001)
        - Transfer learning for high energy physics
        - 迁移学习用于高能物理
 
